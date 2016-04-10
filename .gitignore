@@ -1,0 +1,22 @@
+# OS X filesystem
+
+.DS_Store
+
+# Compiled files
+*.exe
+*.class
+*.pyc
+*.o
+
+# Node modules
+node_modules/
+
+# Other
+*.zip
+
+# Android
+*.apk
+.idea/
+
+# HTML Files
+*.html
